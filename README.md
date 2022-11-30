@@ -1,4 +1,4 @@
-# testvue03
+# Curs VueJs3 application Posts
 
 ## Project setup
 ```
